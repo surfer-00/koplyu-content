@@ -1,0 +1,7 @@
+# Public GitHub Pages repo should contain ONLY static public assets.
+*
+!public/
+!public/**
+!.gitignore
+!README.md
+!README_PUBLIC.md
