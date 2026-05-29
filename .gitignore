@@ -2,6 +2,8 @@
 *
 !public/
 !public/**
+!docs/
+!docs/**
 !.gitignore
 !README.md
 !README_PUBLIC.md
