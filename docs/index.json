@@ -8,7 +8,7 @@
     "goal": "shares + follows",
     "audio_brief": "Use a fast ironic trending audio with a 'price update' or notification feel. Keep it low under voiceover/TTS.",
     "score_total": "32",
-    "video_url": "https://surfer-00.github.io/koplyu-content/ru-day01-reel01-life-tariff/ru-day01-reel01-life-tariff.mp4",
+    "video_url": "",
     "slide_urls": [],
     "caption_url": "https://surfer-00.github.io/koplyu-content/ru-day01-reel01-life-tariff/caption.txt"
   },
@@ -21,7 +21,7 @@
     "goal": "shares + saves",
     "audio_brief": "Use trending notification/cash-register style audio, or a comedic beat with quick cuts.",
     "score_total": "33",
-    "video_url": "https://surfer-00.github.io/koplyu-content/ru-day01-reel02-subscriptions/ru-day01-reel02-subscriptions.mp4",
+    "video_url": "",
     "slide_urls": [],
     "caption_url": "https://surfer-00.github.io/koplyu-content/ru-day01-reel02-subscriptions/caption.txt"
   },
@@ -30,10 +30,10 @@
     "account": "Коплю на жизнь",
     "handle": "koplyu.na.zhizn",
     "type": "carousel",
-    "rubric": "Жизнь обновила тариф",
-    "goal": "saves",
+    "rubric": "это мы",
+    "goal": "shares + comments + saves",
     "audio_brief": "When publishing carousel in Instagram, add a low-key trending audio if available; avoid lyrics that distract from reading.",
-    "score_total": "30",
+    "score_total": "34",
     "video_url": "",
     "slide_urls": [
       "https://surfer-00.github.io/koplyu-content/ru-day01-carousel-money-leaks/slide-01.png",
@@ -48,6 +48,48 @@
     "caption_url": "https://surfer-00.github.io/koplyu-content/ru-day01-carousel-money-leaks/caption.txt"
   },
   {
+    "post_id": "ru-day02-carousel-personal-inflation",
+    "account": "Коплю на жизнь",
+    "handle": "koplyu.na.zhizn",
+    "type": "carousel",
+    "rubric": "личная инфляция",
+    "goal": "shares + comments + saves",
+    "audio_brief": "Use a quiet trending meme audio only if it does not fight with reading.",
+    "score_total": "35",
+    "video_url": "",
+    "slide_urls": [
+      "https://surfer-00.github.io/koplyu-content/ru-day02-carousel-personal-inflation/slide-01.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day02-carousel-personal-inflation/slide-02.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day02-carousel-personal-inflation/slide-03.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day02-carousel-personal-inflation/slide-04.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day02-carousel-personal-inflation/slide-05.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day02-carousel-personal-inflation/slide-06.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day02-carousel-personal-inflation/slide-07.png"
+    ],
+    "caption_url": "https://surfer-00.github.io/koplyu-content/ru-day02-carousel-personal-inflation/caption.txt"
+  },
+  {
+    "post_id": "ru-day03-carousel-free-delivery",
+    "account": "Коплю на жизнь",
+    "handle": "koplyu.na.zhizn",
+    "type": "carousel",
+    "rubric": "бесплатно",
+    "goal": "shares + saves",
+    "audio_brief": "Use a checkout beep or understated trending audio if publishing manually in app.",
+    "score_total": "33",
+    "video_url": "",
+    "slide_urls": [
+      "https://surfer-00.github.io/koplyu-content/ru-day03-carousel-free-delivery/slide-01.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day03-carousel-free-delivery/slide-02.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day03-carousel-free-delivery/slide-03.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day03-carousel-free-delivery/slide-04.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day03-carousel-free-delivery/slide-05.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day03-carousel-free-delivery/slide-06.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day03-carousel-free-delivery/slide-07.png"
+    ],
+    "caption_url": "https://surfer-00.github.io/koplyu-content/ru-day03-carousel-free-delivery/caption.txt"
+  },
+  {
     "post_id": "ru-day02-reel01-free-delivery",
     "account": "Коплю на жизнь",
     "handle": "koplyu.na.zhizn",
@@ -56,7 +98,7 @@
     "goal": "shares + comments",
     "audio_brief": "Use trending delivery/checkout/comedy sound if available. Otherwise use original sound with receipt beep.",
     "score_total": "32",
-    "video_url": "https://surfer-00.github.io/koplyu-content/ru-day02-reel01-free-delivery/ru-day02-reel01-free-delivery.mp4",
+    "video_url": "",
     "slide_urls": [],
     "caption_url": "https://surfer-00.github.io/koplyu-content/ru-day02-reel01-free-delivery/caption.txt"
   },
@@ -69,7 +111,7 @@
     "goal": "shares + saves",
     "audio_brief": "Use a trending suspense/reveal audio; cut on the price chart reveal.",
     "score_total": "33",
-    "video_url": "https://surfer-00.github.io/koplyu-content/ru-day02-reel02-fake-sale/ru-day02-reel02-fake-sale.mp4",
+    "video_url": "",
     "slide_urls": [],
     "caption_url": "https://surfer-00.github.io/koplyu-content/ru-day02-reel02-fake-sale/caption.txt"
   },
@@ -82,7 +124,7 @@
     "goal": "shares + follows",
     "audio_brief": "Use dry comedic trending audio or minimal beat; do not overpower on-screen text.",
     "score_total": "32",
-    "video_url": "https://surfer-00.github.io/koplyu-content/en-day01-reel01-price-update/en-day01-reel01-price-update.mp4",
+    "video_url": "",
     "slide_urls": [],
     "caption_url": "https://surfer-00.github.io/koplyu-content/en-day01-reel01-price-update/caption.txt"
   },
@@ -95,7 +137,7 @@
     "goal": "shares + saves",
     "audio_brief": "Use trending notification/payday sound, cash register, or quick comedic beat.",
     "score_total": "33",
-    "video_url": "https://surfer-00.github.io/koplyu-content/en-day01-reel02-subscriptions/en-day01-reel02-subscriptions.mp4",
+    "video_url": "",
     "slide_urls": [],
     "caption_url": "https://surfer-00.github.io/koplyu-content/en-day01-reel02-subscriptions/caption.txt"
   },
@@ -104,10 +146,10 @@
     "account": "Life Costs Extra",
     "handle": "lifecostsextra",
     "type": "carousel",
-    "rubric": "Life Costs Extra",
-    "goal": "saves",
+    "rubric": "too real",
+    "goal": "shares + comments + saves",
     "audio_brief": "Add a calm trending audio in Instagram carousel publishing if available; prioritize readability.",
-    "score_total": "30",
+    "score_total": "34",
     "video_url": "",
     "slide_urls": [
       "https://surfer-00.github.io/koplyu-content/en-day01-carousel-money-leaks/slide-01.png",
