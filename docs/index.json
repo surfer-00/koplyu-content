@@ -73,10 +73,10 @@
     "account": "Коплю на жизнь",
     "handle": "koplyu.na.zhizn",
     "type": "carousel",
-    "rubric": "бесплатно",
+    "rubric": "pov",
     "goal": "shares + saves",
     "audio_brief": "Use a checkout beep or understated trending audio if publishing manually in app.",
-    "score_total": "33",
+    "score_total": "34",
     "video_url": "",
     "slide_urls": [
       "https://surfer-00.github.io/koplyu-content/ru-day03-carousel-free-delivery/slide-01.png",
@@ -88,6 +88,27 @@
       "https://surfer-00.github.io/koplyu-content/ru-day03-carousel-free-delivery/slide-07.png"
     ],
     "caption_url": "https://surfer-00.github.io/koplyu-content/ru-day03-carousel-free-delivery/caption.txt"
+  },
+  {
+    "post_id": "ru-day04-carousel-card-dialogue",
+    "account": "Коплю на жизнь",
+    "handle": "koplyu.na.zhizn",
+    "type": "carousel",
+    "rubric": "чат с картой",
+    "goal": "shares + comments",
+    "audio_brief": "Low-key meme audio only if it does not distract from reading.",
+    "score_total": "33",
+    "video_url": "",
+    "slide_urls": [
+      "https://surfer-00.github.io/koplyu-content/ru-day04-carousel-card-dialogue/slide-01.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day04-carousel-card-dialogue/slide-02.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day04-carousel-card-dialogue/slide-03.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day04-carousel-card-dialogue/slide-04.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day04-carousel-card-dialogue/slide-05.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day04-carousel-card-dialogue/slide-06.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day04-carousel-card-dialogue/slide-07.png"
+    ],
+    "caption_url": "https://surfer-00.github.io/koplyu-content/ru-day04-carousel-card-dialogue/caption.txt"
   },
   {
     "post_id": "ru-day02-reel01-free-delivery",
