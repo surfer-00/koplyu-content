@@ -30,7 +30,7 @@
     "account": "Коплю на жизнь",
     "handle": "koplyu.na.zhizn",
     "type": "carousel",
-    "rubric": "это мы",
+    "rubric": "Зарплата была",
     "goal": "shares + comments + saves",
     "audio_brief": "When publishing carousel in Instagram, add a low-key trending audio if available; avoid lyrics that distract from reading.",
     "score_total": "34",
@@ -52,7 +52,7 @@
     "account": "Коплю на жизнь",
     "handle": "koplyu.na.zhizn",
     "type": "carousel",
-    "rubric": "личная инфляция",
+    "rubric": "Жизнь обновила тариф",
     "goal": "shares + comments + saves",
     "audio_brief": "Use a quiet trending meme audio only if it does not fight with reading.",
     "score_total": "35",
@@ -73,7 +73,7 @@
     "account": "Коплю на жизнь",
     "handle": "koplyu.na.zhizn",
     "type": "carousel",
-    "rubric": "pov",
+    "rubric": "Это платно",
     "goal": "shares + saves",
     "audio_brief": "Use a checkout beep or understated trending audio if publishing manually in app.",
     "score_total": "34",
@@ -94,7 +94,7 @@
     "account": "Коплю на жизнь",
     "handle": "koplyu.na.zhizn",
     "type": "carousel",
-    "rubric": "чат с картой",
+    "rubric": "Зарплата была",
     "goal": "shares + comments",
     "audio_brief": "Low-key meme audio only if it does not distract from reading.",
     "score_total": "33",
@@ -109,6 +109,27 @@
       "https://surfer-00.github.io/koplyu-content/ru-day04-carousel-card-dialogue/slide-07.png"
     ],
     "caption_url": "https://surfer-00.github.io/koplyu-content/ru-day04-carousel-card-dialogue/caption.txt"
+  },
+  {
+    "post_id": "ru-day05-carousel-app-says",
+    "account": "Коплю на жизнь",
+    "handle": "koplyu.na.zhizn",
+    "type": "carousel",
+    "rubric": "Это платно",
+    "goal": "shares + comments",
+    "audio_brief": "Quiet notification-style audio if publishing manually in app.",
+    "score_total": "33",
+    "video_url": "",
+    "slide_urls": [
+      "https://surfer-00.github.io/koplyu-content/ru-day05-carousel-app-says/slide-01.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day05-carousel-app-says/slide-02.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day05-carousel-app-says/slide-03.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day05-carousel-app-says/slide-04.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day05-carousel-app-says/slide-05.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day05-carousel-app-says/slide-06.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day05-carousel-app-says/slide-07.png"
+    ],
+    "caption_url": "https://surfer-00.github.io/koplyu-content/ru-day05-carousel-app-says/caption.txt"
   },
   {
     "post_id": "ru-day02-reel01-free-delivery",
