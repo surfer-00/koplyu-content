@@ -462,6 +462,27 @@
     "caption_url": "https://surfer-00.github.io/koplyu-content/ru-day22-carousel-taxi-dialogue/caption.txt"
   },
   {
+    "post_id": "ru-day23-carousel-start-here",
+    "account": "Коплю на жизнь",
+    "handle": "koplyu.na.zhizn",
+    "type": "carousel",
+    "rubric": "Старт здесь",
+    "goal": "profile conversion + follows",
+    "audio_brief": "Quiet neutral audio if adding audio manually in Instagram. Text readability first.",
+    "score_total": "31",
+    "video_url": "",
+    "slide_urls": [
+      "https://surfer-00.github.io/koplyu-content/ru-day23-carousel-start-here/slide-01.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day23-carousel-start-here/slide-02.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day23-carousel-start-here/slide-03.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day23-carousel-start-here/slide-04.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day23-carousel-start-here/slide-05.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day23-carousel-start-here/slide-06.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day23-carousel-start-here/slide-07.png"
+    ],
+    "caption_url": "https://surfer-00.github.io/koplyu-content/ru-day23-carousel-start-here/caption.txt"
+  },
+  {
     "post_id": "ru-day19-carousel-salary-less-checklist",
     "account": "Коплю на жизнь",
     "handle": "koplyu.na.zhizn",
