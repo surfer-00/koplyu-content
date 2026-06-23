@@ -8,7 +8,7 @@
     "goal": "shares + follows",
     "audio_brief": "Use a fast ironic trending audio with a 'price update' or notification feel. Keep it low under voiceover/TTS.",
     "score_total": "32",
-    "video_url": "https://surfer-00.github.io/koplyu-content/ru-day01-reel01-life-tariff/ru-day01-reel01-life-tariff.mp4",
+    "video_url": "",
     "slide_urls": [],
     "caption_url": "https://surfer-00.github.io/koplyu-content/ru-day01-reel01-life-tariff/caption.txt"
   },
@@ -612,6 +612,28 @@
       "https://surfer-00.github.io/koplyu-content/ru-day25-carousel-marketplace-refund-checklist/slide-08.png"
     ],
     "caption_url": "https://surfer-00.github.io/koplyu-content/ru-day25-carousel-marketplace-refund-checklist/caption.txt"
+  },
+  {
+    "post_id": "ru-day26-carousel-bank-fees-checklist",
+    "account": "Коплю на жизнь",
+    "handle": "koplyu.na.zhizn",
+    "type": "carousel",
+    "rubric": "Это платно",
+    "goal": "saves + comments + shares",
+    "audio_brief": "Quiet neutral audio if adding audio manually in Instagram. Text readability first.",
+    "score_total": "32",
+    "video_url": "",
+    "slide_urls": [
+      "https://surfer-00.github.io/koplyu-content/ru-day26-carousel-bank-fees-checklist/slide-01.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day26-carousel-bank-fees-checklist/slide-02.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day26-carousel-bank-fees-checklist/slide-03.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day26-carousel-bank-fees-checklist/slide-04.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day26-carousel-bank-fees-checklist/slide-05.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day26-carousel-bank-fees-checklist/slide-06.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day26-carousel-bank-fees-checklist/slide-07.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day26-carousel-bank-fees-checklist/slide-08.png"
+    ],
+    "caption_url": "https://surfer-00.github.io/koplyu-content/ru-day26-carousel-bank-fees-checklist/caption.txt"
   },
   {
     "post_id": "en-day01-reel01-price-update",
