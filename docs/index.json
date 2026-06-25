@@ -21,7 +21,7 @@
     "goal": "shares + saves",
     "audio_brief": "Use trending notification/cash-register style audio, or a comedic beat with quick cuts.",
     "score_total": "33",
-    "video_url": "https://surfer-00.github.io/koplyu-content/ru-day01-reel02-subscriptions/ru-day01-reel02-subscriptions.mp4",
+    "video_url": "",
     "slide_urls": [],
     "caption_url": "https://surfer-00.github.io/koplyu-content/ru-day01-reel02-subscriptions/caption.txt"
   },
@@ -634,6 +634,28 @@
       "https://surfer-00.github.io/koplyu-content/ru-day26-carousel-bank-fees-checklist/slide-08.png"
     ],
     "caption_url": "https://surfer-00.github.io/koplyu-content/ru-day26-carousel-bank-fees-checklist/caption.txt"
+  },
+  {
+    "post_id": "ru-day27-carousel-home-internet-checklist",
+    "account": "Коплю на жизнь",
+    "handle": "koplyu.na.zhizn",
+    "type": "carousel",
+    "rubric": "Жизнь обновила тариф",
+    "goal": "saves + comments + shares",
+    "audio_brief": "Quiet neutral audio if adding audio manually in Instagram. Text readability first.",
+    "score_total": "32",
+    "video_url": "",
+    "slide_urls": [
+      "https://surfer-00.github.io/koplyu-content/ru-day27-carousel-home-internet-checklist/slide-01.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day27-carousel-home-internet-checklist/slide-02.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day27-carousel-home-internet-checklist/slide-03.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day27-carousel-home-internet-checklist/slide-04.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day27-carousel-home-internet-checklist/slide-05.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day27-carousel-home-internet-checklist/slide-06.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day27-carousel-home-internet-checklist/slide-07.png",
+      "https://surfer-00.github.io/koplyu-content/ru-day27-carousel-home-internet-checklist/slide-08.png"
+    ],
+    "caption_url": "https://surfer-00.github.io/koplyu-content/ru-day27-carousel-home-internet-checklist/caption.txt"
   },
   {
     "post_id": "en-day01-reel01-price-update",
